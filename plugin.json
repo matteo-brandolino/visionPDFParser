@@ -4,7 +4,7 @@
     "description": "Description of visionpdfparser.",
     "author_name": "matteo.brandolino@esosphera.com",
     "author_url": "https://github.com/matteo-brandolino",
-    "plugin_url": "https://github.com/matteo-brandolino/visionPDFParser.git",
+    "plugin_url": "https://github.com/matteo-brandolino/ccat_vision_pdf_parser.git",
     "tags": "pdf, openai, vision, rabbithole",
-    "thumb": "https://raw.githubusercontent.com/matteo-brandolino/visionPDFParser/logo.png"
+    "thumb": "https://raw.githubusercontent.com/matteo-brandolino/ccat_vision_pdf_parser/refs/heads/main/logo.png"
 }
