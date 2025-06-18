@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Vision PDF parser",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "Description of visionpdfparser.",
+    "author_name": "matteo.brandolino@esosphera.com",
+    "author_url": "https://github.com/matteo-brandolino",
+    "plugin_url": "https://github.com/matteo-brandolino/visionPDFParser.git",
+    "tags": "pdf, openai, vision, rabbithole",
+    "thumb": "https://raw.githubusercontent.com/matteo-brandolino/visionPDFParser/logo.png"
 }
