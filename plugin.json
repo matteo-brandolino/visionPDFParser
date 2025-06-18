@@ -1,6 +1,6 @@
 {
     "name": "Vision PDF parser",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "This plugin extracts and translates content from PDF files, including both text and text embedded in images. The processed and translated content is then saved into the rabbit_hole for further use or retrieval",
     "author_name": "matteo.brandolino@esosphera.com",
     "author_url": "https://github.com/matteo-brandolino",
